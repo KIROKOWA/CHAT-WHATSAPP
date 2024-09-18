@@ -18,7 +18,8 @@ import streamlit as st
 ###################################
 # Título de la aplicación
 st.title('Chat de WhatsApp con Katy')
-st.write('Hola katy, este es mi intento de analisis de nuestra conversacion')
+st.write('PRECIOSA CHULA HERMOSA')
+st.write('[Tus ojos hermosos son grandiosos, cada vez que te veo, me muero y cuando estoy contigo siento que todo es infinito] Te dedico esta cancion (https://www.youtube.com/watch?v=QD0aSAe67CI)')
 ###################################
 ###################################
 
